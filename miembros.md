@@ -18,3 +18,4 @@
 * Wasp
 * Antman
 * Jean Carlos
+* Nick Fury
